@@ -1,0 +1,15 @@
+C:\Users\user\qualquer coisa\leet\bin\Debug\net9.0\leet.exe
+C:\Users\user\qualquer coisa\leet\bin\Debug\net9.0\leet.deps.json
+C:\Users\user\qualquer coisa\leet\bin\Debug\net9.0\leet.runtimeconfig.json
+C:\Users\user\qualquer coisa\leet\bin\Debug\net9.0\leet.dll
+C:\Users\user\qualquer coisa\leet\bin\Debug\net9.0\leet.pdb
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.AssemblyInfoInputs.cache
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.AssemblyInfo.cs
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.csproj.CoreCompileInputs.cache
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.sourcelink.json
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.dll
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\refint\leet.dll
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.pdb
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\leet.genruntimeconfig.cache
+C:\Users\user\qualquer coisa\leet\obj\Debug\net9.0\ref\leet.dll
